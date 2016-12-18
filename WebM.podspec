@@ -29,4 +29,5 @@ Pod::Spec.new do |s|
   # to our own path...
   s.public_header_files = "WebM.framework/Headers/**/*.h"
   s.header_mappings_dir = "WebM.framework/Headers"
+  s.header_dir = "./"
 end
