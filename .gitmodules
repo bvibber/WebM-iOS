@@ -1,0 +1,3 @@
+[submodule "libwebm"]
+	path = libwebm
+	url = https://github.com/brion/libwebm.git
