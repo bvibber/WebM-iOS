@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/brion/WebM-iOS"
 
-  s.license      = { :type => "MIT", :file => "LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE.TXT" }
 
   s.author             = { "Brion Vibber (packager)" => "brion@pobox.com" }
 
