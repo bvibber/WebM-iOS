@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  ver = "1.0.0"
-  sha1 = "d27601018a7465ac07b09be792b1097c14247ecc"
+  ver = "1.0.1"
+  sha1 = "f1a0a5d951a309328e77d19575710b316dc92515"
 
   s.name         = "WebM"
   s.version      = ver
